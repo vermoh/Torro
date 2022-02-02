@@ -1,4 +1,4 @@
-<script>
+
 
 $(document).ready(function(){
     
@@ -49,4 +49,4 @@ function darkside(){
 };
  
 });
-</script>
+
